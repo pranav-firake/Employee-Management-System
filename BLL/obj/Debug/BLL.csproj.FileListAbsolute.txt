@@ -1,0 +1,9 @@
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\bin\Debug\BLL.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\bin\Debug\BLL.pdb
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\bin\Debug\BO.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\bin\Debug\DAL.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\bin\Debug\BO.pdb
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\bin\Debug\DAL.pdb
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\obj\Debug\BLL.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "Group4\UI.csproj", "{CEB9FA22-4328-4511-86F4-AD56FF8D6885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{5319EF2E-4E1A-4202-88D1-0548821CE869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{1EA96D9B-546B-44BE-8440-60228E36E482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{090146E5-F0BD-409D-B470-98937F944B3B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ingnrilpsql02:8080/tfs/newcollection
+		SccProjectUniqueName0 = DAL\\DAL.csproj
+		SccProjectName0 = DAL
+		SccLocalPath0 = DAL
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = Group4\\UI.csproj
+		SccProjectName2 = Group4
+		SccLocalPath2 = Group4
+		SccProjectUniqueName3 = BLL\\BLL.csproj
+		SccProjectName3 = BLL
+		SccLocalPath3 = BLL
+		SccProjectUniqueName4 = BO\\BO.csproj
+		SccProjectName4 = BO
+		SccLocalPath4 = BO
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB9FA22-4328-4511-86F4-AD56FF8D6885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB9FA22-4328-4511-86F4-AD56FF8D6885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB9FA22-4328-4511-86F4-AD56FF8D6885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB9FA22-4328-4511-86F4-AD56FF8D6885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5319EF2E-4E1A-4202-88D1-0548821CE869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5319EF2E-4E1A-4202-88D1-0548821CE869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5319EF2E-4E1A-4202-88D1-0548821CE869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5319EF2E-4E1A-4202-88D1-0548821CE869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA96D9B-546B-44BE-8440-60228E36E482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA96D9B-546B-44BE-8440-60228E36E482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA96D9B-546B-44BE-8440-60228E36E482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA96D9B-546B-44BE-8440-60228E36E482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090146E5-F0BD-409D-B470-98937F944B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090146E5-F0BD-409D-B470-98937F944B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090146E5-F0BD-409D-B470-98937F944B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090146E5-F0BD-409D-B470-98937F944B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

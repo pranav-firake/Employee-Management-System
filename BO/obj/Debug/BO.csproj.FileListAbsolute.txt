@@ -1,0 +1,5 @@
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BO\bin\Debug\BO.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BO\bin\Debug\BO.pdb
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BO\obj\Debug\BO.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\BO\obj\Debug\BO.pdb

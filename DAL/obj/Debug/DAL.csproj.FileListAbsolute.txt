@@ -1,0 +1,7 @@
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\bin\Debug\DAL.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\bin\Debug\DAL.pdb
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\bin\Debug\BO.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\bin\Debug\BO.pdb
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\obj\Debug\DAL.dll
+C:\Users\pranav\Desktop\ProjectGroup4 (2)\ProjectGroup4\Group4\DAL\obj\Debug\DAL.pdb
